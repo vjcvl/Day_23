@@ -1,0 +1,45 @@
+
+#heading{
+    text-align: center;
+    color:rgb(242, 240, 165);
+   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-smcoNV_JDOxoMFxKmZ4ZE1yJATAnzp5_EA&usqp=CAU");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: max-content;}
+#box{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    border: 2px transparent;
+    background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBwYHBwoIBwcHBgoPBgcHCA8ICQYWFBEWFhUREx8YHSggGBolGxMTITEhJSkrLi4uFx8zODMsNygtLisBCgoKDQ0NEA0NDysZHxkrKysrLS0rKzcrKysrKysrKysrKy0rLSsrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIALEBHAMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAAAAQIH/8QAFhABAQEAAAAAAAAAAAAAAAAAABEB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAEEA//EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOXqg1OagAAAAAAgKIAogAAAAAIAogAAAAAIAogCiAKgAAiDSsqoogCiAKIAogCiAAAAIgogooggAAAgKIAogCiAqiAKgACAKrKgogCiAKIAogCiUoKJUoNDNKCiAKIAohQUZAaRAFEAUQBRAFEEAQBRAGhkBoZAaGQFEAUQBRAFpUBVpWQFogCiAKIAtKgC0qALSsgNUrIDSIIKggLVrJVGqVmgNUrIDVKzSg1Ss0oNUrNKg1RmgKVKAtKgC0qFBaVkBRAFpUAWlQBaVAFogCoAAgBVrNKK0M0oNDNKDQyA0MgNUrIDVSoAtKlKC0qUoKM0qDQzQGisgNUrIC0qALSoAtKlKC0SlBaVkAqsgrVKyA1SsgNUrIDVKyA1SsgKIAogCiALSsgNUZAapWSoKIUFEpQUSlBRKUFKgC0ZpQUZAaGVoKMqCiUBRkBoZAaGQGisgLSoAtKgC0qAKIlBoZoDQyA0M0oNDNKDSIAoiAogitDIDQyA0M0oNIlAUQBRAFEAUQBRAFEAAQFEAUQBRAFEAUQBUEAVlRVEAUQBRAFEAUQEUQBRAFEAURAaRAFEAUQBRAFEAUQBRAAEAVAVRAFEAUQBRAFEAUQBRAFEAVAAAQBAFEAUQBRAFEAUQBRAABRQEAAAAAAEAUAAAAAAAEAAAAAAAAAAABAAUNQAf//Z");
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+div{
+    padding: 15px; 
+    height: 280px;
+    width: 300px;
+    border: 10px transparent;
+
+    color:rgb(255, 234, 149);
+}
+div2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 100;
+}
+img{
+    height:200px;
+    width: 300px;
+}
+button{
+    height: 20px;
+    cursor: pointer;
+    width: 120px;
+}
